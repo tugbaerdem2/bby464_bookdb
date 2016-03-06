@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookdb>
+    <book>
+
+        <booktitle>Kimsenin Bilemeyeceği Şeyler</booktitle>
+
+        <author>Sinan Canan</author>
+
+        <publisher>Nefes Yayıncılık</publisher>
+
+        <ISBN>978-605-85091-9-1</ISBN>
+
+        <dateofpub>2015</dateofpub>
+
+        <price>18,50 TL</price>
+
+        <URL>http://www.idefix.com/kitap/kimsenin-bilemeyecegi-seyler-sinan-canan/tanim.asp?sid=KRV6BKR6TB4BU8X06PUA</URL>
+
+    </book>
+
+    <book>
+
+        <booktitle>Küçük Prens</booktitle>
+
+        <author>Antoine de Saint-Exupéry</author>
+
+        <publisher>Can Çocuk Yayınları</publisher>
+
+        <ISBN>978-975-6842-01-0</ISBN>
+
+        <dateofpub>2015</dateofpub>
+
+        <price>5,32 TL</price>
+
+        <URL>http://www.idefix.com/kitap/kucuk-prens-antoine-de-saint-exupery/tanim.asp?sid=LRN4I2T3IP2PHZXNXIVE</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Hikayem Paramparça</booktitle>
+
+        <author>Emrah Serbest</author>
+
+        <publisher>İletişim Yayınları</publisher>
+
+        <ISBN>978-975-05-1118-9</ISBN>
+
+        <dateofpub>2012</dateofpub>
+
+        <price>11,55 TL</price>
+
+        <URL>http://www.idefix.com/kitap/hikayem-paramparca-emrah-serbes/tanim.asp?sid=T4PX87FU1P5PEXYXB1T9</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Milena'ya Mektuplar</booktitle>
+
+        <author>Franz Kafka</author>
+
+        <publisher>Can Yayınları</publisher>
+
+        <ISBN>978-975-07-1110-7</ISBN>
+
+        <dateofpub>2015</dateofpub>
+
+        <price>21,54 TL</price>
+
+        <URL>http://www.idefix.com/kitap/milenaya-mektuplar-franz-kafka/tanim.asp?sid=K0OG3PSR7M5MUBNTW36E</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Bülbülü Öldürmek</booktitle>
+
+        <author>Harper Lee</author>
+
+        <publisher>Sel Yayıncılık</publisher>
+
+        <ISBN>9789755706849</ISBN>
+
+        <dateofpub>2014</dateofpub>
+
+        <price>15,20 TL</price>
+
+        <URL>http://www.idefix.com/kitap/bulbulu-oldurmek-harper-lee/tanim.asp?sid=EYLJ272XB2YYTA46INKQ</URL>
+
+    </book>
+
+    <book>
+
+        <booktitle>+45 Anlayarak Hızlı Okuma Egzersiz Kitabı</booktitle>
+
+        <author>Serkan Aydın</author>
+
+        <publisher>KRP Yayıncılık</publisher>
+
+        <ISBN>978-605-5002-31-2</ISBN>
+
+        <dateofpub>2015</dateofpub>
+
+        <price>12,16 TL</price>
+
+        <URL>http://www.dr.com.tr/Kitap/-45-Anlayarak-Hizli-Okuma-Egzersiz-Kitabi/Serkan-Aydin/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000680593?gclid=CjwKEAiAx--2BRDO6q2T84_a52YSJABWAbfrAH4wE8vG7s6LxUxkPQo06oKkwmiKblLQc2jW5l2qXxoCT_zw_wcB</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Yalnızlık</booktitle>
+
+        <author>Mustafa Özodaşık</author>
+
+        <publisher>Tablet Kitapevi</publisher>
+
+        <ISBN>975-6346-10-8</ISBN>
+
+        <dateofpub>2005</dateofpub>
+
+        <price></price>
+
+        <URL>http://www.idefix.com/kitap/yalnizlik-mustafa-ozodasik/tanim.asp?sid=TCYEN1RCW1G209FNQ0T1</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Hayvanlardan Tanrılara-Sapiens</booktitle>
+
+        <author>Yuval Noah Harari</author>
+
+        <publisher>Kolektif Kitap</publisher>
+
+        <ISBN>9786055029357</ISBN>
+
+        <dateofpub>2015</dateofpub>
+
+        <price>20,44 TL</price>
+
+        <URL>http://www.idefix.com/kitap/hayvanlardan-tanrilara-sapiens-yuval-noah-harari/tanim.asp?sid=T881G21E08EVDLBW14I5</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Sineklerin Tanrısı</booktitle>
+
+        <author>William Golding</author>
+
+        <publisher>İş Bankası Kültür Yayınları </publisher>
+
+        <ISBN>9789754582901</ISBN>
+
+        <dateofpub>2006</dateofpub>
+
+        <price>10,40 TL</price>
+
+        <URL>http://www.idefix.com/kitap/sineklerin-tanrisi-william-golding/tanim.asp?sid=OFCCPQ43I2PG7DJETKHL</URL>
+
+    </book>
+
+    <book>
+
+        <booktitle>Yüzyıllık Yalnızlık</booktitle>
+
+        <author>Gabriel Garcia Marquez</author>
+
+        <publisher>Can Yayınları</publisher>
+
+        <ISBN>9789750719363</ISBN>
+
+        <dateofpub>0</dateofpub>
+
+        <price>23,73 TL</price>
+
+        <URL>http://www.idefix.com/kitap/yuzyillik-yalnizlik-gabriel-garcia-marquez/tanim.asp?sid=UU8YLLPRLY4KJ2NXPUD1</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Yabancı</booktitle>
+
+        <author>Albert Camus</author>
+
+        <publisher>Can Yayınları </publisher>
+
+        <ISBN>9789750724756</ISBN>
+
+        <dateofpub>1996</dateofpub>
+
+        <price>9,12 TL</price>
+
+        <URL>http://www.idefix.com/kitap/yabanci-albert-camus/tanim.asp?sid=F5R8GROXHY4CNFIFTD63</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Simyacı</booktitle>
+
+        <author>Paulo Coelho</author>
+
+        <publisher>Can Yayınları</publisher>
+
+        <ISBN>9789750726439</ISBN>
+
+        <dateofpub>2010</dateofpub>
+
+        <price>12,92 TL</price>
+
+        <URL>http://www.idefix.com/kitap/simyaci-paulo-coelho/tanim.asp?sid=FT47D2ZBOY0Y5G2ZRL29</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Hayvan Çiftliği</booktitle>
+
+        <author>George Orwell</author>
+
+        <publisher>Can Yayınları</publisher>
+
+        <ISBN>9789750719387</ISBN>
+
+        <dateofpub>2001</dateofpub>
+
+        <price>11,40 TL</price>
+
+        <URL>http://www.idefix.com/kitap/hayvan-ciftligi-george-orwell/tanim.asp?sid=OTEUIUK0R3MFLX258KCU</URL>
+
+    </book>
+
+    <book>
+
+        <booktitle>İçimizdeki Şeytan</booktitle>
+
+        <author>Sabahattin Ali</author>
+
+        <publisher>Yapı Kredi Yayınları</publisher>
+
+        <ISBN>9789753638036</ISBN>
+
+        <dateofpub>1998</dateofpub>
+
+        <price>10,40 TL</price>
+
+        <URL>http://www.idefix.com/kitap/icimizdeki-seytan-sabahattin-ali/tanim.asp?sid=ELGFQWPPSI8IYM7O4XO1</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Dönüşüm</booktitle>
+
+        <author>Franz Kafka</author>
+
+        <publisher>Can Yayınları</publisher>
+
+        <ISBN>9789750719356</ISBN>
+
+        <dateofpub>2001</dateofpub>
+
+        <price>6,08 TL</price>
+
+        <URL>http://www.idefix.com/kitap/donusum-franz-kafka/tanim.asp?sid=I77HQUL69D2M7NPTSRKK</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Çavdar Tarlasında Çocuklar</booktitle>
+
+        <author>J. D. Salinger</author>
+
+        <publisher>Yapı Kredi Yayınları </publisher>
+
+        <ISBN>9789753636360</ISBN>
+
+        <dateofpub>7,80 TL</dateofpub>
+
+        <price>2006</price>
+
+        <URL>http://www.idefix.com/kitap/cavdar-tarlasinda-cocuklar-j-d-salinger/tanim.asp?sid=GTTHQVCVWA0R6PKZ3MXN</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Otomatik Portakal</booktitle>
+
+        <author>Anthony Burgess</author>
+
+        <publisher>İş Bankası Kültür Yayınları</publisher>
+
+        <ISBN>9789944885706</ISBN>
+
+        <dateofpub>2009</dateofpub>
+
+        <price>9,10 TL</price>
+
+        <URL>http://www.idefix.com/kitap/otomatik-portakal-anthony-burgess/tanim.asp?sid=SYZ7QCFG3P8PHDBFIIC9</URL>
+
+    </book> 
+
+    <book>
+
+        <booktitle>Gurur ve Önyargı</booktitle>
+
+        <author>Jane Austen</author>
+
+        <publisher>İş Bankası Kültür Yayınları </publisher>
+
+        <ISBN>9789754587029</ISBN>
+
+        <dateofpub>2016</dateofpub>
+
+        <price>10,40 TL</price>
+
+        <URL>http://www.idefix.com/kitap/gurur-ve-onyargi-hasan-ali-yucel-klasikleri-jane-austen/tanim.asp?sid=YJSZP4VL82RR1WGDTOIA</URL>
+
+    </book>
+
+    <book>
+
+        <booktitle>Boğulmamak İçin</booktitle>
+
+        <author>George Orwell</author>
+
+        <publisher>Can Yayınları</publisher>
+
+        <ISBN>9789750726491</ISBN>
+
+        <dateofpub>2015</dateofpub>
+
+        <price>15,20 TL</price>
+
+        <URL>http://www.idefix.com/kitap/bogulmamak-icin-george-orwell/tanim.asp?sid=I5PU7418Z896HLVHMT26</URL>
+
+    </book>
+
+    <book>
+
+        <booktitle>Gülün Adı</booktitle>
+
+        <author>Umberto Eco</author>
+
+        <publisher>Can Yayınları </publisher>
+
+        <ISBN>9789755102450</ISBN>
+
+        <dateofpub>1999</dateofpub>
+
+        <price>21,66 TL</price>
+
+        <URL>http://www.idefix.com/kitap/gulun-adi-umberto-eco/tanim.asp?sid=DLIIGZDUYG7DYGNQHD0Z</URL>
+
+    </book>
+
+    <book>
+
+        <booktitle>Göğe Bakma Durağı</booktitle>
+
+        <author>Turgut Uyar</author>
+
+        <publisher>Yapı Kredi Yayınları</publisher>
+
+        <ISBN>9789750813870</ISBN>
+
+        <dateofpub>2008</dateofpub>
+
+        <price>3,90 TL</price>
+
+        <URL>http://www.idefix.com/kitap/goge-bakma-duragi-turgut-uyar/tanim.asp?sid=JYPC5C77TB0B8QSZ7BMN</URL>
+
+    </book>
+
+</bookdb> 
